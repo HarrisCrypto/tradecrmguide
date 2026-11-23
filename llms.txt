@@ -1,0 +1,49 @@
+# Trade CRM Guide
+
+> Independent reviews, comparisons, and buyer guides for marketing CRMs and
+> automation software for home-service trades (plumbers, HVAC, roofers,
+> electricians). Run by Jason O’Keefe, who works with the trades on
+> phones, marketing, and automation.
+
+## About
+
+- A marketing CRM follows up every lead automatically: missed-call text-back,
+  estimate follow-up, review requests, and reactivation campaigns.
+- This site reviews marketing CRM and automation platforms honestly: no
+  sponsored rankings, no invented ratings. Reviews carry a verdict only after
+  genuine hands-on evaluation.
+- Affiliate disclosure: some links earn us a commission at no extra cost to the reader.
+  Full disclosure: https://tradecrmguide.com/affiliate-disclosure/
+
+## Key pages
+
+- Home: https://tradecrmguide.com/
+- Reviews: https://tradecrmguide.com/reviews/
+- Comparisons: https://tradecrmguide.com/comparisons/
+- Buyer guides: https://tradecrmguide.com/guides/
+- By trade: https://tradecrmguide.com/for/
+- Newsletter: https://tradecrmguide.com/newsletter/
+- About: https://tradecrmguide.com/about/
+
+## Comparisons
+
+- [GoHighLevel vs Jobber: Which One Actually Gets a Contractor More Jobs?](https://tradecrmguide.com/comparisons/gohighlevel-vs-jobber/): GoHighLevel and Jobber solve different problems: one fills the pipeline, the other runs the trucks. How to tell which one your contracting business needs — or whether you need both.
+- [GoHighLevel vs Systeme.io for Local Businesses: The No-Hype Comparison](https://tradecrmguide.com/comparisons/gohighlevel-vs-systeme-io/): GoHighLevel ($97/mo) vs Systeme.io (from $17/mo with a free tier): which all-in-one actually fits a local trade business? Honest breakdown of phone workflows, automation depth, and total cost.
+- [GoHighLevel vs Systeme.io for Small Business: Which One Should You Actually Buy?](https://tradecrmguide.com/comparisons/gohighlevel-vs-systeme-io-small-business/): GoHighLevel vs Systeme.io for a small business owner: verified pricing tiers, total cost of ownership, what each platform actually does best, and a decision framework by buyer type. No fake winner.
+
+## Guides
+
+- [Best CRM for HVAC Companies in 2026: What Actually Works (and What Is Overkill)](https://tradecrmguide.com/guides/best-crm-for-hvac/): What is the best CRM for an HVAC company? An honest look at GoHighLevel for HVAC shops — missed-call text-back, review automation, maintenance reminders — plus where Systeme.io and AWeber fit smaller operations.
+- [GoHighLevel Black Friday Deals 2026: Confirmed — 50% Off the First 3 Months, Opens November 23](https://tradecrmguide.com/guides/gohighlevel-black-friday-deals-2026/): GoHighLevel's 2026 Black Friday deal is confirmed through HighLevel's affiliate channel: 50% off the first three months for new customers, Black Friday Week November 23–29, 8:00 AM–11:59 PM Pacific, with a Cyber Monday Week November 30–December 6. The offer is not yet live on gohighlevel.com — promo pages go live November 23.
+- [GoHighLevel for Plumbers: An Honest 2026 Review (From the Marketing Side, Not the Truck)](https://tradecrmguide.com/guides/gohighlevel-for-plumbers-review/): Should a plumbing company buy GoHighLevel? What it actually does for a plumber (missed-call text-back, review automation, estimate follow-up), what it costs, and where it falls short. Verified October 2026.
+- [GoHighLevel Pricing Explained: What a Roofing Company Really Pays Per Month](https://tradecrmguide.com/guides/gohighlevel-pricing-roofing/): GoHighLevel plans, usage costs, setup fees, and the agency route — the full math on what a roofing company actually spends per month, with the line items vendors hope you miss.
+- [Does GoHighLevel Replace an AI Receptionist? Missed-Call Text-Back vs. a Dedicated Voice Agent](https://tradecrmguide.com/guides/gohighlevel-vs-ai-receptionist/): GoHighLevel texts back your missed calls. An AI receptionist answers them live. Which one a trade business actually needs — and why plenty of shops end up with both.
+- [Jobber Black Friday Deals 2026: October Promo Ended — What We Are Watching](https://tradecrmguide.com/guides/jobber-black-friday-deals-2026/): Early-bird Jobber deal watch for home-service trades: the Save up to 40% promo ended October 30, 2026, and no Black Friday deal has been announced yet. This page updates as real Black Friday terms land in November.
+- [JobNimbus Black Friday 2026: Up to 30% Off an Annual Plan, Plus Your First Month Free — Through December 31](https://tradecrmguide.com/guides/jobnimbus-black-friday-deals-2026/): JobNimbus is running a vendor-published Black Friday offer: up to 30% off an annual subscription plus the first month free, for new customers who sign by December 31, 2026. The discount varies by package and is stated on the order form only — no per-plan dollar price is published.
+- [ServiceTitan Max Goes GA for Residential Contractors: What the Pantheon 2026 Announcement Means for Buyers](https://tradecrmguide.com/guides/servicetitan-max-ga-pantheon-2026/): ServiceTitan announced at Pantheon 2026 that its AI-powered Max package is now generally available to all residential contractors, alongside the Atlas mobile app and Homh consumer platform. What contractors evaluating field-service software should take away.
+- [Systeme.io Black Friday Deals 2026: Current Pricing Holds — No Holiday Deal Announced Yet](https://tradecrmguide.com/guides/systemeio-black-friday-deals-2026/): Early-bird Systeme.io deal watch: the funnel and email platform still lists Free, $17 Startup, $47 Webinar, and $97 Unlimited, with no Black Friday 2026 deal announced as of October 25, 2026. This page updates when real holiday terms appear.
+- [Yelp's $30 AI Lead Agent Answers Your Quote Requests — and Books Straight Into ServiceTitan and Housecall Pro](https://tradecrmguide.com/guides/yelp-smart-lead-reply/): Yelp's fall 2026 release adds Smart Lead Reply, a $30/month AI agent that answers and qualifies Request a Quote leads, plus scheduling integrations with ServiceTitan and Housecall Pro and lead-flow integrations with Jobber and Workiz. What it means for which CRM catches Yelp leads fastest.
+
+## Contact
+
+- Via the newsletter page; every issue is reply-able.
